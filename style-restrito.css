@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(218, 5, 5);
+}
+
+.title-container{
+    margin: 20px;
+    margin-left: 100px;
+}
+
+.nav-link{
+    color: white;
+}
